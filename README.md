@@ -25,6 +25,38 @@ Buscamos criar um ambiente virtual onde o estudante possa:
 + HEADER O nome do site de Idiomas
 + NAV conteudo do cabeçalho
 + SECTION Conteudo do site
-+ 
++ SECTION DIV CARD valores das mensalidades e cursos disponiveis
++ SECTION DIV CARROSEL Imagens dos cursos disponiveis
++ CONTATO\RODAPÉ Contato e inforamções finais
+
+# organização dos arquivos 
+vertex-academy/
+│
+├── index.html          
+├── style.css           
+│
+└── public/
+    ├── logo23.jpeg
+    ├── foto 1.jpeg
+    ├── icones 1.jpeg
+    ├── icones 2.jpeg
+    ├── icone3.jpeg
+    ├── icones4.jpeg
+    ├── icones5.jpeg
+    ├── Pessoas conversando 1.jpeg
+    ├── pessoas assistindo.jpeg
+    ├── carrosel1.jpeg
+    ├── carrosel 2.jpeg
+    ├── carrosel3.jpeg
+    ├── card1 (1).jpeg
+    ├── card1 (2).jpeg
+    ├── card1 (3).jpeg
+    ├── vertex1.jpeg
+    ├── image3 (1).jpeg
+    ├── image3 (2).jpeg
+    └── image3 (3).jpeg
+    index.html e responsavel pela estrutura principal do site
+    style.css e responsavel estilizar a aparencia do site 
+    
   
                    
