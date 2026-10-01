@@ -77,7 +77,7 @@ vertex-academy/
 + frizamos uma linguagem de facil entendimento
 
 # Dificuldade encontrada 
-+ Umas das dificuldades foi organizar o carrosel
++ Umas das dificuldades foi organizar o carrossel
 + o problema foi resolvido utilizabdo um codigo do Bootstrap
 
   # Melhorias futuras
