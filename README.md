@@ -85,6 +85,8 @@ vertex-academy/
   + Uma pagina mais interativa
   + imagens interativas
   + Um rodape de contato mais completo
+  
+  ## https://vertex-fe7g.vercel.app/
 
   
     
